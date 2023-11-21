@@ -51,6 +51,10 @@ namespace personal_assignment
             }
 
         }
+        static void test()
+        {
+            Console.WriteLine("Test");
+        }
         static void status()
         {
             Console.Clear();
